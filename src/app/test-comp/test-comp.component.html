@@ -1,0 +1,15 @@
+<div *ngIf="this.randomNumber % 2 === 0;else other_content">
+  <p>{{this.randomNumber}} is even</p>
+</div>
+<div>
+  <ng-template #other_content>
+    <p>{{this.randomNumber}} is odd</p>
+  </ng-template>
+</div>
+
+<br>
+
+<div *ngIf="this.overFive">
+  <p>The number displayed above is over five.</p>
+</div>
+<a href="javascript:location.reload(true)">Refresh this page</a>
