@@ -2,7 +2,10 @@
 
 A test project to help explain how Angular's files work together to generate a user experience.  Explanation can be found on [Youtube]() and [my website]().
 
-## Setup
+## Running in the Browser
+[Click here](https://stackblitz.com/github/whit-wu/TestApp) to run the code on a Stack Blitz session in your browser.
+
+## Local Setup
 To setup the application, clone it by running `git clone https://github.com/whit-wu/TestApp.git` in your CLI.  Navigate to the cloned repo then run `npm install --save-dev @angular-devkit/build-angular` to install the Angular development kit.
 
 ## Development server
