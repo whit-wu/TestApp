@@ -1,6 +1,6 @@
 # TestApp
 
-A test project to help explain how Angular's files work together to generate a user experience.  Explanation can be found on [Youtube]() and [my website]().
+A test project to help explain how Angular's files work together to generate a user experience.  Explanation can be found on [Youtube](https://www.youtube.com/watch?v=iG2RlE9bv-E) and [my website](http://whitwu.com/angular-walkthrough-part-3-the-lay-of-the-land).
 
 ## Running in the Browser
 [Click here](https://stackblitz.com/github/whit-wu/TestApp) to run the code on a Stack Blitz session in your browser.
